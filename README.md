@@ -2,7 +2,7 @@ QoSMeasurement
 ==================================
 
 ## Introduction
-A tool for performing network QoS measurements, implemented by GO. 
+My work during internship, a tool for performing network QoS measurements, implemented by GO. 
 
 
 ## Project
