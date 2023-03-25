@@ -1,4 +1,4 @@
-QoSMeasurement 
+QoSMeasurementTool
 ==================================
 
 ## Introduction
